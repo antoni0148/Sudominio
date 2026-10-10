@@ -1,0 +1,2 @@
+# Sudominio
+Script de Termux 
